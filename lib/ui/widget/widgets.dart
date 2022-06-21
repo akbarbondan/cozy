@@ -1,0 +1,15 @@
+import 'package:bwa_coyz/models/models.dart';
+import 'package:bwa_coyz/models/tips.dart';
+import 'package:bwa_coyz/thme.dart';
+import 'package:bwa_coyz/ui/pages/pages.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:get/get.dart';
+part 'city_card.dart';
+part 'recomended.dart';
+part 'tips_gudiance.dart';
+part 'bottom_navbar.dart';
+part 'facilities.dart';
+part 'rating.dart';

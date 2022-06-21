@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891831837178",
+    "project_id": "bwacozy-68b44",
+    "storage_bucket": "bwacozy-68b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891831837178:android:37101383ca95395d884443",
+        "android_client_info": {
+          "package_name": "com.example.bwa_coyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891831837178-0t8nlmjaq34ft8bos4cu44e0shsho5kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNn2zdyhKUFf-SYPapfYV_CLcYWI0Tlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891831837178-0t8nlmjaq34ft8bos4cu44e0shsho5kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
